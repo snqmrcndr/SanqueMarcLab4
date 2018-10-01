@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">@color/primaryColor</item>
+    </style>
+
+    <style name="Header">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primaryDarkColor</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Location">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primaryDarkColor</item>
+        <item name="android:gravity">left</item>
+    </style>
+
+    <style name="Distance">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primaryDarkColor</item>
+        <item name="android:gravity">left</item>
+    </style>
+
+    <style name="Buttons">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:background">@color/primaryDarkColor</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:gravity">left</item>
+    </style>
+</resources>
